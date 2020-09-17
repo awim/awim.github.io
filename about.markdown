@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello, I am **Awim / M. Taqwim**
 
-starting professional software engineer since 2012
+_starting professional software engineer since 2012_
 
 *Potential Humble Technical Leader, Solution Architect, and Business Development - Insya Allah.*
 
@@ -22,7 +22,7 @@ starting professional software engineer since 2012
 
 **LinkedIn		:** [https://www.linkedin.com/in/mtaqwim/](https://www.linkedin.com/in/mtaqwim/)
 
-**Git		:** [ [https://github.com/awim](https://github.com/awim) ,  [https://gitlab.com/awim](https://github.com/awim) ]
+**Git		:** [https://github.com/awim](https://github.com/awim)
 
 ------
 
@@ -332,6 +332,7 @@ _Tools in used:_
 
 
 #### Educations
+
 **_JUNE  2008 - OCTOBER 2012_**
 
 **STMIK Bandung, Bandung** - _Computer Bachelor_ (GPA. 3.6/4)
