@@ -6,7 +6,8 @@ permalink: /about/
 
 Hello, I am **Awim / M. Taqwim**
 
-7+ Years Experience
+starting professional software engineer since 2012
+
 *Potential Humble Technical Leader, Solution Architect, and Business Development - Insya Allah.*
 
 **Fullname	:** Muhammad Taqwim Ash
@@ -291,6 +292,7 @@ _Tools in used:_
 *   **Bitbucket** - Source Code Repository
 
 
+
 **_APRIL 2014 - FEBRUARY 2015_**
 
 **Global Innovation Technology, Jakarta** - _Software Engineer / Technical Sales / Presales_
@@ -307,6 +309,7 @@ _Tools in used:_
 *   **Redmine (_ruby on rails_)** - open source project management tools, to handle organisation task list
 *   **Jenkins (_Java_)** - Continuous Integration tools to automate some software development and build an environment
 *   **Springboot (_Java_)** - Java framework, that used as a platform to develop an application for maintaining vm information on Esxi server
+
 
 
 **_DECEMBER 2012 - MARCH 2014_**
@@ -355,5 +358,5 @@ _Tools in used:_
 
 **Verint Recognition APAC Level II** - _Category: Team Focus_
 
-> “This award is given for the best player of the team, from all divisions of cross departments in Jakarta Region. With criteria of Most Contributed, Most Proactive, Most Appreciated, Most  Service Excellence looks from Interpersonal and Relationship with Internal and External Team”
+> This award is given for the best player of the team, from all divisions of cross departments in Jakarta Region. With criteria of Most Contributed, Most Proactive, Most Appreciated, Most  Service Excellence looks from Interpersonal and Relationship with Internal and External Team
 
